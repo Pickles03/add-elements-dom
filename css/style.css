@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 2px 2px 4px #25bcca;
+    margin-left: auto;
+}
+
+#lista {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    list-style-type: number;
+    margin-left: auto;
+}
+
+#agregar {
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-left: auto;
+}
+
+#agregar {
+    transition: all 0.5s linear;
+}
+
+#agregar:hover {
+    background-color: #0e484e;
+    color: white;
+}
